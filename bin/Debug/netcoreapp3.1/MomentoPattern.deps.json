@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MomentoPattern/1.0.0": {
+        "runtime": {
+          "MomentoPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MomentoPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

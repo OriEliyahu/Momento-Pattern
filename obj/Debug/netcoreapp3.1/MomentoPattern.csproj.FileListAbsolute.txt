@@ -1,0 +1,13 @@
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\bin\Debug\netcoreapp3.1\MomentoPattern.exe
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\bin\Debug\netcoreapp3.1\MomentoPattern.deps.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\bin\Debug\netcoreapp3.1\MomentoPattern.runtimeconfig.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\bin\Debug\netcoreapp3.1\MomentoPattern.runtimeconfig.dev.json
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\bin\Debug\netcoreapp3.1\MomentoPattern.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\bin\Debug\netcoreapp3.1\MomentoPattern.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.csprojAssemblyReference.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.AssemblyInfoInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.AssemblyInfo.cs
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.dll
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.pdb
+C:\Users\shira\Desktop\Ori\DesignPatterns\Behavoral\MomentoPattern\obj\Debug\netcoreapp3.1\MomentoPattern.genruntimeconfig.cache
